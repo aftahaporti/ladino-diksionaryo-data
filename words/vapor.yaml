@@ -15,7 +15,18 @@ versions:
       ebreo: ''
       portugez: ''
       kasteyano: vapor
-      turko: ''
+      turko: vapur
 
+  - ladino: vapores
 
+    gender: masculine
+    number: plural
+
+    translations:
+      inglez: ships
+      fransez: ''
+      ebreo: ''
+      portugez: ''
+      kasteyano: ''
+      turko: vapurlar
 
