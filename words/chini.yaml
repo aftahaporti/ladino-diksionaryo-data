@@ -18,3 +18,16 @@ versions:
         kasteyano: plato
         turko: tabak
 
+
+  - ladino: chini
+    accented: chiní
+
+    gender: masculine
+    number: plural
+
+    translations:
+        inglez: plates
+        fransez: ''
+        portugez: ''
+        kasteyano: platos
+        turko: tabaklar
