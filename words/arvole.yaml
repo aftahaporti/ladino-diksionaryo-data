@@ -20,7 +20,7 @@ versions:
         hebrew: עץ
         portugez: ''
         kasteyano: árbol
-        turko: ağaçlar
+        turko: ağaç
 
   - ladino: arvoles
     accented: arvolés
@@ -34,5 +34,5 @@ versions:
         hebrew: עצים
         portugez: ''
         kasteyano: árboles
-        turko: ''
+        turko: ağaçlar
 
