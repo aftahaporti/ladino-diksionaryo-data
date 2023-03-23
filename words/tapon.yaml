@@ -14,7 +14,8 @@ versions:
         kasteyano: tapón
         turko:
         - kapak
-        - tipa
+        - tıpa
+        - küçük örtü
 
   - ladino: tapones
 
@@ -27,8 +28,9 @@ versions:
         portugez: ''
         kasteyano: tapónes
         turko:
-        - kapak
-        - tipa
+        - kapaklar
+        - tıpalar
+        - küçük örtüler
 
 
 
