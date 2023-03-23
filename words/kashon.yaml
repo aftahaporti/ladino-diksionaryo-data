@@ -16,4 +16,14 @@ versions:
         portugez: ''
         kasteyano: cajón
         turko: çekmece
+ gender: masculine
+    number: plural
+
+    translations:
+        inglez: drawers
+        fransez: ''
+        portugez: ''
+        kasteyano: cajónes
+        turko: çekmeceler
+
 
